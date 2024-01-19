@@ -9,7 +9,8 @@ User roles: Admin, Staff, Delivery, Customer (owner of small stores that need de
 + Delivery: Can see all order in areas that they was assigned to.
 + Custoemr: Owner of small stores. Can manage stores, mange order in a store.
 
-+ My full report with Vietnamese language here: https://shorturl.at/euJMS
+I'm using Java with Spring framework for this project so remember to set up your environment with Java
+My full report with Vietnamese language here: https://shorturl.at/euJMS
 
 ## Technique ##
 
@@ -38,8 +39,10 @@ schema name: delivery (on your choice)
 port: 3306 => This can change depending on your choice, feel free
 database name: delivery => Run SQL code: "create database delivery" 
 
-
 #3 Clone this project and change few line in this file: application.properties
 >> spring.datasource.url=jdbc:mysql://localhost:3306/delivery => change "delivery" if you named different database name. 
 >> spring.datasource.username=root => root will be depend on your MySQL when you installed it.
+
+#4 Now click run it 
+I'm using Inteliji IDE  
 
