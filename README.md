@@ -1,5 +1,10 @@
 ## Delivery Ecomerce Project ##
 
+Team size: 3
+Language: Java
+Framework: Spring
+DB: MySQL
+
 ## About this project ##
 
 This project is a small model in E-Delivery approach for a B2B model.   
@@ -45,4 +50,9 @@ database name: delivery => Run SQL code: "create database delivery"
 
 #4 Now click run it   
 I'm using Inteliji IDE  
+
+Orther Contributors:  
+[@Toiladaoo](https://github.com/Toiladaoo)  
+[@jaysonguyen](https://github.com/jaysonguyen)
+
 
