@@ -1,9 +1,9 @@
 ## Delivery Ecomerce Project ##
 
-Team size: 3
-Language: Java
-Framework: Spring
-DB: MySQL
+Team size: 3  
+Language: Java  
+Framework: Spring API  
+DB: MySQL  
 
 ## About this project ##
 
