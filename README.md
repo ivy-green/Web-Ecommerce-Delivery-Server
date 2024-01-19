@@ -35,9 +35,9 @@ https://dev.mysql.com/downloads/installer/
 >> Remember to create username and password carefully (remember it or write it to somewhere)
 
 #2 Create database in MySQL:
-schema name: delivery (on your choice)
-port: 3306 => This can change depending on your choice, feel free
-database name: delivery => Run SQL code: "create database delivery" 
+schema name: delivery (on your choice) \n 
+port: 3306 => This can change depending on your choice, feel free \n
+database name: delivery => Run SQL code: "create database delivery"  \n
 
 #3 Clone this project and change few line in this file: application.properties
 >> spring.datasource.url=jdbc:mysql://localhost:3306/delivery => change "delivery" if you named different database name. 
