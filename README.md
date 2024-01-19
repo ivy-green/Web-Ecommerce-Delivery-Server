@@ -14,7 +14,7 @@ My full report with Vietnamese language here: https://shorturl.at/euJMS
 
 ## Technique ##
 
-I was practise some kinds of Design Pattern in this project. Some of them have already been on Spring framework but I was still rework with it, just be generously with my first art. thank you.
+I was practise some kinds of Design Pattern in this project. Some of them have already been on Spring framework but I was still rework with it, just be generous with my first art. Thank you.
 Design patterns:
 + Dependency Injection
 + Factory Method
